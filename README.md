@@ -1,21 +1,3 @@
-Simple Navbar
-A simple and responsive navigation bar built with HTML, CSS, and JavaScript. This project demonstrates how to create a clean and functional navbar that can be easily customized for different web applications. It includes features like hover effects, active link highlighting, and smooth scrolling behavior. Perfect for developers who need a basic yet effective navigation menu for their websites.
-
-
-Features:
-Clean and minimal design
-Responsive layout (mobile-friendly)
-Hover effects for links
-Active link highlighting
-Easy customization for colors, fonts, and layout
-
-
-Technologies Used:
-HTML5
-CSS3 (Flexbox, Animations)
-JavaScript (for interactive behavior)
-
-
 Installation:
 Clone the repository:
 bash
