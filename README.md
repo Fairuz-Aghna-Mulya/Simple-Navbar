@@ -2,7 +2,8 @@ Installation:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Fairuz-Aghna-Mulya/simple-navbar.git
+git clone 
+https://github.com/Fairuz-Aghna-Mulya/simple-navbar.git
 Open the index.html file in a browser to see the navbar in action.
 
 
